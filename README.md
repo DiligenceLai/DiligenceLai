@@ -15,7 +15,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<!--
+
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
@@ -29,7 +29,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/DiligenceLai/nacos"><b>Nacos</b></a></td>
+      <td><a href="https://github.com/alibaba/nacos"><b>Nacos</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/alibaba/nacos?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/alibaba/nacos?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/alibaba/nacos?style=flat-square&labelColor=343b41"/></td>
@@ -51,7 +51,7 @@
     </tr>
   </tbody>
 </table>
--->
+
 
 <!--
 **DiligenceLai/DiligenceLai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
